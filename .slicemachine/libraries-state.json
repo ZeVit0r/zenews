@@ -1,0 +1,75 @@
+{
+  "slices": {
+    "components": {
+      "post": {
+        "library": "slices",
+        "id": "post",
+        "name": "Post",
+        "description": "Post",
+        "model": {
+          "id": "post",
+          "type": "SharedSlice",
+          "name": "Post",
+          "description": "Post",
+          "variations": [
+            {
+              "id": "default",
+              "name": "Default",
+              "docURL": "...",
+              "version": "sktwi1xtmkfgx8626",
+              "description": "Post",
+              "primary": {
+                "title": {
+                  "type": "StructuredText",
+                  "config": {
+                    "single": "heading1",
+                    "label": "Title",
+                    "placeholder": "This is where it all begins..."
+                  }
+                },
+                "description": {
+                  "type": "StructuredText",
+                  "config": {
+                    "single": "paragraph",
+                    "label": "Description",
+                    "placeholder": "A nice description of your feature"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "mocks": {
+          "default": {
+            "variation": "default",
+            "name": "Default",
+            "slice_type": "post",
+            "items": [],
+            "primary": {
+              "title": [
+                {
+                  "type": "heading1",
+                  "text": "Productize extensible content",
+                  "spans": []
+                }
+              ],
+              "description": [
+                {
+                  "type": "paragraph",
+                  "text": "Labore dolore magna ut fugiat sunt cupidatat proident fugiat reprehenderit velit officia enim incididunt mollit exercitation. Dolore aliqua minim est ullamco Lorem nisi. Occaecat sit irure excepteur elit eu in.",
+                  "spans": []
+                }
+              ]
+            }
+          }
+        },
+        "meta": {
+          "fileName": "index",
+          "isDirectory": true,
+          "extension": "js"
+        },
+        "screenshotPaths": {}
+      }
+    }
+  }
+}

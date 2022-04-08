@@ -1,0 +1,26 @@
+{
+  "id": "b52ad7ab-8409-4a2a-b98f-40afa2a96f78",
+  "uid": "id-enim-illo",
+  "type": "Publication",
+  "data": {
+    "Title": [
+      {
+        "type": "paragraph",
+        "text": "Officia sunt aute aliquip non officia in deserunt nostrud deserunt ad non. Magna nulla commodo exercitation amet pariatur.",
+        "spans": []
+      }
+    ],
+    "Content": [
+      {
+        "type": "heading1",
+        "text": "Seize leading-edge deliverables",
+        "spans": []
+      },
+      {
+        "type": "paragraph",
+        "text": "Cupidatat occaecat esse proident mollit elit sit cillum quis in est consectetur ipsum Lorem. Consectetur consectetur nulla consectetur laboris.",
+        "spans": []
+      }
+    ]
+  }
+}

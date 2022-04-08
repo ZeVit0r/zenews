@@ -16,7 +16,7 @@ export default function Home({product} : HomeProps) {
   return (
     <>
       <Head>
-        <title>Home | ze.news</title>
+        <title>Home | Zenews</title>
       </Head>
 
       <main className={styles.contentContainer}>
